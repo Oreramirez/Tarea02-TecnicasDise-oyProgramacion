@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.22)  22 MAR 2019 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.3.22)  1 APR 2019 01:28
 entering extended mode
 **./Informe.tex
 (Informe.tex
 LaTeX2e <2018-12-01>
-(D:\miktext\tex/latex/base\article.cls
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
+"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(D:\miktext\tex/latex/base\size12.clo
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -19,32 +20,42 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (D:\miktext\tex/latex/base\inputenc.sty
+)
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-) (D:\miktext\tex/generic/babel\babel.sty
+)
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
 Package: babel 2018/11/13 3.27 The Babel package
 
-(D:\miktext\tex/generic/babel\switch.def
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+ef"
 File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(D:\miktext\tex/latex/arabi\bblopts.cfg
+
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+g"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(D:\miktext\tex/latex/babel-spanish\spanish.ldf
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\sp
+anish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-(D:\miktext\tex/generic/babel\babel.def
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+f"
 File: babel.def 2018/11/13 3.27 Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
 
-(D:\miktext\tex/generic/babel\txtbabel.def)
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+.def")
 \bbl@dirlevel=\count89
 )
 \es@quottoks=\toks16
@@ -54,41 +65,51 @@ Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-(D:\miktext\tex/latex/graphics\graphicx.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\miktext\tex/latex/graphics\keyval.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(D:\miktext\tex/latex/graphics\graphics.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\miktext\tex/latex/graphics\trig.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(D:\miktext\tex/latex/graphics-cfg\graphics.cfg
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-(D:\miktext\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvi
+ps.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(D:\miktext\tex/latex/geometry\geometry.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(D:\miktext\tex/generic/oberdiek\ifpdf.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-(D:\miktext\tex/generic/oberdiek\ifvtex.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvte
+x.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(D:\miktext\tex/generic/ifxetex\ifxetex.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
+x.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count91
@@ -104,8 +125,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks18
 
-(D:\miktext\tex/latex/geometry\geometry.cfg))
-(D:\miktext\tex/latex/float\float.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometr
+y.cfg"))
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count94
 \float@exts=\toks19
@@ -113,24 +135,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box28
 )
-(D:\miktext\tex/latex/amsmath\amsmath.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(D:\miktext\tex/latex/amsmath\amstext.sty
+
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(D:\miktext\tex/latex/amsmath\amsgen.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen114
 ))
-(D:\miktext\tex/latex/amsmath\amsbsy.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen115
 )
-(D:\miktext\tex/latex/amsmath\amsopn.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count95
@@ -171,48 +199,120 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-(D:\miktext\tex/latex/oberdiek\stackrel.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\stackre
+l.sty"
 Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
 
-(D:\miktext\tex/generic/oberdiek\etexcmds.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(D:\miktext\tex/generic/oberdiek\infwarerr.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(D:\miktext\tex/generic/oberdiek\ifluatex.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))
-(D:\miktext\tex/generic/oberdiek\pdftexcmds.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(D:\miktext\tex/generic/oberdiek\ltxcmds.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 ))
-(D:\miktext\tex/latex/multirow\multirow.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
+w.sty"
 Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip46
 \multirow@cntb=\count107
 \multirow@dima=\skip47
 \bigstrutjot=\dimen123
 )
-(D:\miktext\tex/latex/tools\enumerate.sty
+("C:\Users\Orestes\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.
+sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
 ) (Informe.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 
-(Secciones/paradigma01.aux) (Secciones/paradigma02.aux)
-(Secciones/paradigma03.aux) (Secciones/paradigma04.aux)
-(Secciones/paradigma05.aux))
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...et@token \penalty \@M \hskip \z@skip n.aux}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(Secciones/Introducci.tex
+! Missing \endcsname inserted.
+<to be read again> 
+                   \unhbox 
+l.2 ... \@let@token \penalty \@M \hskip \z@skip n}
+                                                  {
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra }, or forgotten \endgroup.
+<argument> ...r \spacefactor }\accent 19 o\egroup 
+                                                  \spacefactor \accent@space...
+l.2 ... \@let@token \penalty \@M \hskip \z@skip n}
+                                                  {
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.2 ... \@let@token \penalty \@M \hskip \z@skip n}
+                                                  {
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (Secciones/Conceptos.aux) (Secciones/Modelos,.aux) (Secciones/Definici.tex
+! Missing \endcsname inserted.
+<to be read again> 
+                   \unhbox 
+l.2 ... \@let@token \penalty \@M \hskip \z@skip n}
+                                                  {
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra }, or forgotten \endgroup.
+<argument> ...r \spacefactor }\accent 19 o\egroup 
+                                                  \spacefactor \accent@space...
+l.2 ... \@let@token \penalty \@M \hskip \z@skip n}
+                                                  {
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.2 ... \@let@token \penalty \@M \hskip \z@skip n}
+                                                  {
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (Secciones/Herramientas.aux))
 \openout1 = `Informe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -229,45 +329,11 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
- (D:\miktext\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count108
-\scratchdimen=\dimen124
-\scratchbox=\box31
-\nofMPsegments=\count109
-\nofMParguments=\count110
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count111
-\MPscratchDim=\dimen125
-\MPnumerator=\count112
-\makeMPintoPDFobject=\count113
-\everyMPtoPDFconversion=\toks28
-) (D:\miktext\tex/latex/oberdiek\epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(D:\miktext\tex/latex/oberdiek\grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(D:\miktext\tex/generic/oberdiek\kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(D:\miktext\tex/latex/oberdiek\kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(D:\miktext\tex/generic/oberdiek\kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: dvips
 * paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -298,15 +364,24 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./Imagenes/logo.jpg, id=1, 276.03125pt x 183.68625pt>
-File: ./Imagenes/logo.jpg Graphic file (type jpg)
-<use ./Imagenes/logo.jpg>
-Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
-(pdftex.def)             Requested size: 227.62204pt x 151.47853pt.
-[1
+[5
 
-{C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
-s/logo.jpg>] (Informe.toc
+]
+
+! LaTeX Error: File `./Imagenes/logo' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \includegraphics[width=8cm]{./Imagenes/logo}
+                                                 
+I could not locate the file with any of these extensions:
+.eps,.ps,.eps.gz,.ps.gz,.eps.Z,.mps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[1] (Informe.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -314,277 +389,55 @@ LaTeX Info: Redefining \% on input line 1.
 \openout3 = `Informe.toc'.
 
  [1]
-\openout2 = `Secciones/paradigma01.aux'.
+\openout2 = `Secciones/Introducci.tex'.
+
+ (Secciones/Introducci.tex) [1
+
+]
+\openout2 = `Secciones/Conceptos.aux'.
 
 
-No file Secciones/paradigma01.tex.
-\openout2 = `Secciones/paradigma02.aux'.
-
-No file Secciones/paradigma02.tex.
-\openout2 = `Secciones/paradigma03.aux'.
-
-No file Secciones/paradigma03.tex.
-\openout2 = `Secciones/paradigma04.aux'.
-
-(Secciones/paradigma04.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-[1
-
-
-
-
+No file Secciones/Conceptos.tex.
+[2
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\openout2 = `Secciones/Modelos,.aux'.
 
- []
 
+No file Secciones/Modelos,.tex.
+[3
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
- []
+]
+\openout2 = `Secciones/Definici.tex'.
 
+ (Secciones/Definici.tex) [4
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+] [5
 
- []
+]
+\openout2 = `Secciones/Herramientas.aux'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+No file Secciones/Herramientas.tex.
+[6
 
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--84
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
-
- []
-
-[5]) [6]
-\openout2 = `Secciones/paradigma05.aux'.
-
-
-No file Secciones/paradigma05.tex.
-(Informe.aux
+] (Informe.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (Secciones/paradigma01.aux) (Secciones/paradigma02.aux)
-(Secciones/paradigma03.aux) (Secciones/paradigma04.aux)
-(Secciones/paradigma05.aux)) ) 
+ (Secciones/Introducci.tex) (Secciones/Conceptos.aux)
+(Secciones/Modelos,.aux) (Secciones/Definici.tex) (Secciones/Herramientas.aux))
+ ) 
 Here is how much of TeX's memory you used:
- 3676 strings out of 492946
- 48858 string characters out of 3143048
- 141590 words of memory out of 3000000
- 7482 multiletter control sequences out of 15000+200000
- 8261 words of font info for 30 fonts, out of 3000000 for 9000
+ 3029 strings out of 492947
+ 43563 string characters out of 3125404
+ 122177 words of memory out of 3000000
+ 6860 multiletter control sequences out of 15000+200000
+ 4842 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,31p,1237b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/miktext/fonts/type1/public/amsfonts/cm/cmbx12
-.pfb><D:/miktext/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/miktext/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb><D:/miktext/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb>
-Output written on Informe.pdf (8 pages, 79095 bytes).
-PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 27i,4n,31p,591b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on Informe.dvi (9 pages, 1876 bytes).
